@@ -140,7 +140,7 @@ function ResponsiveDrawer(props) {
       </nav>
       <main className={classes.content}>
         <div className={classes.toolbar} />
-        {props.children}
+            {props.children}
       </main>
     </div>
   );
