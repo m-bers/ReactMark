@@ -16,7 +16,7 @@ import MenuIcon from '@material-ui/icons/Menu';
 import Toolbar from '@material-ui/core/Toolbar';
 import Typography from '@material-ui/core/Typography';
 import { makeStyles, useTheme } from '@material-ui/core/styles';
-
+import { Box } from '@material-ui/core'
 const drawerWidth = 240;
 
 const useStyles = makeStyles((theme) => ({
@@ -47,8 +47,11 @@ const useStyles = makeStyles((theme) => ({
     width: drawerWidth,
   },
   content: {
+    marginTop: theme.spacing(6),
     flexGrow: 1,
     padding: theme.spacing(3),
+    display: "flex",
+    flexWrap: "wrap"
   },
 }));
 
@@ -138,10 +141,10 @@ function ResponsiveDrawer(props) {
           </Drawer>
         </Hidden>
       </nav>
-      <main className={classes.content}>
+      <Box className={classes.content}>
         <div className={classes.toolbar} />
             {props.children}
-      </main>
+      </Box>
     </div>
   );
 }
