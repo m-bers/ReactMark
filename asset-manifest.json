@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ReactMark/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ReactMark/static/js/main.857fc8d5.chunk.js",
+    "main.js.map": "/ReactMark/static/js/main.857fc8d5.chunk.js.map",
+    "runtime-main.js": "/ReactMark/static/js/runtime-main.ecdacc78.js",
+    "runtime-main.js.map": "/ReactMark/static/js/runtime-main.ecdacc78.js.map",
+    "static/css/2.c8bf545f.chunk.css": "/ReactMark/static/css/2.c8bf545f.chunk.css",
+    "static/js/2.10e7c8e8.chunk.js": "/ReactMark/static/js/2.10e7c8e8.chunk.js",
+    "static/js/2.10e7c8e8.chunk.js.map": "/ReactMark/static/js/2.10e7c8e8.chunk.js.map",
+    "static/js/3.ddda34a1.chunk.js": "/ReactMark/static/js/3.ddda34a1.chunk.js",
+    "static/js/3.ddda34a1.chunk.js.map": "/ReactMark/static/js/3.ddda34a1.chunk.js.map",
+    "index.html": "/ReactMark/index.html",
+    "service-worker.js": "/ReactMark/service-worker.js",
+    "service-worker.js.map": "/ReactMark/service-worker.js.map",
+    "static/css/2.c8bf545f.chunk.css.map": "/ReactMark/static/css/2.c8bf545f.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ReactMark/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.10e7c8e8.chunk.js.LICENSE.txt": "/ReactMark/static/js/2.10e7c8e8.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/ReactMark/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecdacc78.js",
+    "static/css/2.c8bf545f.chunk.css",
+    "static/js/2.10e7c8e8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.857fc8d5.chunk.js"
+  ]
+}
